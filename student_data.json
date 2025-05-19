@@ -1,0 +1,72 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "Fady Fares",
+      "score": 10,
+      "percentage": 19.61,
+      "grade": "F-",
+      "notes": "",
+      "phone": "01012345678",
+      "password": "785214",
+      "pdfUrl": "https://drive.google.com/file/d/1_ijfWYKEeVB6Kbc_9ki9Ol80x9XHeedA/view?usp=sharing"
+    },
+    {
+      "id": 2,
+      "name": "Parthena",
+      "score": 27,
+      "percentage": 52.94,
+      "grade": "D",
+      "notes": "",
+      "phone": "01023456789",
+      "password": "369852",
+      "pdfUrl": "https://drive.google.com/file/d/1_ijfWYKEeVB6Kbc_9ki9Ol80x9XHeedA/view?usp=sharing"
+    },
+    {
+      "id": 3,
+      "name": "Fady Ishak",
+      "score": 45,
+      "percentage": 88.24,
+      "grade": "A",
+      "notes": "Eligible for certificate of excellence 🏆",
+      "certificate": true,
+      "phone": "01034567890",
+      "password": "147258",
+      "pdfUrl": "https://drive.google.com/file/d/1_ijfWYKEeVB6Kbc_9ki9Ol80x9XHeedA/view?usp=sharing"
+    },
+    {
+      "id": 4,
+      "name": "Amr",
+      "score": 51,
+      "percentage": 100,
+      "grade": "A+",
+      "notes": "Eligible for certificate of excellence 🏆",
+      "certificate": true,
+      "phone": "01045678901",
+      "password": "963258",
+      "pdfUrl": "https://drive.google.com/file/d/1_ijfWYKEeVB6Kbc_9ki9Ol80x9XHeedA/view?usp=sharing"
+    },
+    {
+      "id": 5,
+      "name": "Mosa Gerges",
+      "score": 0,
+      "percentage": 0,
+      "grade": "Absent",
+      "notes": "Did not attend the exam ❌",
+      "absent": true,
+      "phone": "01056789012",
+      "password": "852147",
+      "pdfUrl": ""
+    }
+  ],
+  "exam": {
+    "title": "Final Review Exam",
+    "total_marks": 51,
+    "pass_percentage": 50,
+    "model_answer_url": "https://drive.google.com/file/d/1_ijfWYKEeVB6Kbc_9ki9Ol80x9XHeedA/view?usp=sharing",
+    "notes": [
+      "You can download your answer sheet and the model answer using the buttons below 📝",
+      "Students with grade A or A+ can download their certificate of excellence 🎓"
+    ]
+  }
+}
